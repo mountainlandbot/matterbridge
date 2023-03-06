@@ -27,7 +27,7 @@ require (
 	github.com/matterbridge/go-xmpp v0.0.0-20200418225040-c8a3a57b4050
 	github.com/matterbridge/gozulipbot v0.0.0-20200820220548-be5824faa913
 	github.com/matterbridge/logrus-prefixed-formatter v0.5.3-0.20200523233437-d971309a77ba
-	github.com/mattermost/mattermost-server/v5 v5.30.1
+	github.com/mattermost/mattermost-server/v5 v5.39.0
 	github.com/mattn/godown v0.0.1
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
 	github.com/missdeer/golib v1.0.4
@@ -36,11 +36,11 @@ require (
 	github.com/mrexodia/wray v0.0.0-20160318003008-78a2c1f284ff // indirect
 	github.com/nelsonken/gomf v0.0.0-20180504123937-a9dd2f9deae9
 	github.com/paulrosania/go-charset v0.0.0-20190326053356-55c9d7a5834c
-	github.com/rs/xid v1.2.1
+	github.com/rs/xid v1.3.0
 	github.com/russross/blackfriday v1.6.0
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca
 	github.com/shazow/ssh-chat v1.10.1
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.8.1
 	github.com/slack-go/slack v0.8.0
 	github.com/spf13/afero v1.3.4 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
@@ -52,7 +52,7 @@ require (
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2 // indirect
 	github.com/yaegashi/msgraph.go v0.1.4
 	github.com/zfjagann/golang-ring v0.0.0-20190304061218-d34796e0a6c2
-	golang.org/x/image v0.0.0-20201208152932-35266b937fa6
+	golang.org/x/image v0.0.0-20210622092929-e6eecd499c2c
 	golang.org/x/oauth2 v0.0.0-20210201163806-010130855d6c
 	gomod.garykim.dev/nc-talk v0.1.7
 	gopkg.in/olahol/melody.v1 v1.0.0-20170518105555-d52139073376
