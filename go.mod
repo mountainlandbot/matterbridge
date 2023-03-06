@@ -52,7 +52,7 @@ require (
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2 // indirect
 	github.com/yaegashi/msgraph.go v0.1.4
 	github.com/zfjagann/golang-ring v0.0.0-20190304061218-d34796e0a6c2
-	golang.org/x/image v0.0.0-20201208152932-35266b937fa6
+	golang.org/x/image v0.5.0
 	golang.org/x/oauth2 v0.0.0-20210201163806-010130855d6c
 	gomod.garykim.dev/nc-talk v0.1.7
 	gopkg.in/olahol/melody.v1 v1.0.0-20170518105555-d52139073376
